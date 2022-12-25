@@ -1,7 +1,7 @@
 # Demo
 
-Some description!*******
+Some description!**\*\*\***
 
-## Subheader $$$$
+## Subheader number zillion $$$$
 
-Watching tutorial on Youtube....again!!!
+Watching tutorial on Youtube....again...again...again...!!!
